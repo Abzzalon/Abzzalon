@@ -25,12 +25,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ps,xd,pr,ai)](https://skillicons.dev) 
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,postman)](https://skillicons.dev) 
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev) 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea)](https://skillicons.dev) 
 
+[![My Skills](https://skillicons.dev/icons?i=linux,)](https://skillicons.dev) 
 
 ## Connect with me ☕ :
 
