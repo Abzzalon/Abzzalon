@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me :
 
-- 🏢 *I currently work as CEO and web developer at [Shop iOS Peru]*
+- 🏢 *I currently work as CEO and web developer *
 - 🏢 *Good time experiencing myself in web development and User experience Ui/UX*
 - 💻 *Experience in various technological roles: UI designer, developer, leader, manager, entrepreneur and programmer.*
 - ⚡ *Fun Facts*: 🎮🎥🍕♋    
